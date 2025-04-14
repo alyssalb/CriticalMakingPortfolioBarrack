@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self Portrait
+title: Comic Image-Text
 permalink: /Comic/
 ---
 # Comic - Image-Text
