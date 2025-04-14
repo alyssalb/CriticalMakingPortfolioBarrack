@@ -22,11 +22,34 @@ header, footer {
   color: white;
   width: 100%;
   text-align: center;
+  padding: 20px 0;
 }
 
 footer {
   padding: 10px 0;
   font-size: 0.85rem;
+  margin-top: 40px;
+}
+
+header {
+  magin-bottom: 40px;
+}
+
+main {
+  padding-bottom: 40px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 30px 0 15px;
+}
+
+p {
+  margin: 15px 0;
+}
+
+ul, ol {
+  margin: 15px 0;
+  padding-left: 30px;
 }
   
 nav ul {
@@ -57,7 +80,7 @@ img {
   width: 100%;
   height: auto;
   display: block;
-  margin: 2em auto;
+  margin: 30px auto;
   border-radius: 6px;
 }
 
