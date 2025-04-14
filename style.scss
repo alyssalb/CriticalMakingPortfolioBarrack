@@ -3,29 +3,38 @@
 body {
   margin: 0;
   padding: 0;
-  background: #fccdbd;
-  color: #232324;
+  background: #fccdbd !important;
+  color: #232324 !important;
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 h1 {
-  color: #822e12;
+  color: #822e12 !important;
   font-size: 50px;
 }
 
 h2, h3, h4, h5, h6 {
-  color: #495e48;
+  color: #495e48 !important;
 }
 
 header {
-  background: #822e12;
+  background: #822e12 !important;
   width: 100%;
   border-bottom: 1px dashed #495e48;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
+
+a {
+  color: #495e48 !important;
+}
+
+nav {
+  background-color: #232324 !important!
+}
+
 
 
 //  #fccdbd light cream orange // #822e12 rusty deeper orange // #232324 dark blue/grey // #495e48 dark sage green
