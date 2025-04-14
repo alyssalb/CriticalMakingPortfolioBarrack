@@ -1,3 +1,8 @@
+---
+layout: default
+title: Generative AI
+permalink: /Generation/
+---
 # Generative AI as a Tool
 This project is included as a first-step towards a potential dissertation concept of a digital production of Theatre of Surveillance. I want to develop this conceptually and aesthetically over the next couple of years as a dissertation research effort.
 
