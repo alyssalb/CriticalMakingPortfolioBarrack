@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/page1.html' | relative_url }}">Page 1</a></li>
+        <li><a href="{{ '/page2.html' | relative_url }}">Page 2</a></li>
+        <li><a href="{{ '/page3.html' | relative_url }}">Page 3</a></li>
+         <li><a href="{{ '/page4.html' | relative_url }}">Page 4</a></li>
+        <li><a href="{{ '/page5.html' | relative_url }}">Page 5</a></li>
+        <li><a href="{{ '/page6.html' | relative_url }}">Page 6</a></li>
+        <li><a href="{{ '/page7.html' | relative_url }}">Page 7</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+  </footer>
+
+</body>
+</html>
