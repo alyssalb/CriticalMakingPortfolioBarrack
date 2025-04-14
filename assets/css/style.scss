@@ -1,9 +1,19 @@
-$base00: #fccdbd; //background
-$base01: #232324; //default text
-$base02: #495e48; //accent
-$base03: #822e12; //header
+---
+---
 
 @import "jekyll-theme-hacker";
+
+body {
+  background: #fccdbd;
+  color: #232324;
+}
+
+img {
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
 
 body {
   margin: 0 auto;
