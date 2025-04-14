@@ -1,3 +1,8 @@
+---
+layout: default
+title: Narrative with p5.js
+permalink: /Narrative/
+---
 # Sketching with p5.js
 I am including my p5.js sketch because, after working with it and learning how the language operates, I went a little wild and did FIVE more visualizations as part of a project for another course this semester that I wasn’t quite pleased with. The visualizations ended up being a massive contributor to the effectiveness of that project, and really brought it together. I have included my p5.js sketch about The Scottish Play Curse that I made for Critical Making, as well as the Digital Timeline on a history of theatrical-technical depictions of power in The Tragical History of Doctor Faustus. These are both examples of my developing skill with p5.js, my use of and proficiency with ChatGPT as a coding troubleshooting tool to assist in executing my ideas more effectively, and my combinatory skill working with multiple programs and languages (the Digital Timeline is hosted on GitHub and uses a combination of html, css, p5.js, and a teensy bit of additional javascript).
 
