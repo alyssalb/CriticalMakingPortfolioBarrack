@@ -1,8 +1,14 @@
+$base00: #fccdbd; //background
+$base01: #232324; //default text
+$base02: #495e48; //accent
+$base03: #822e12; //header
+
 @import "jekyll-theme-hacker";
 
 body {
-  margin: 0;
-  padding: 0;
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 0 20px;
   background: #fccdbd !important;
   color: #232324 !important;
   font-size: 16px;
@@ -46,6 +52,26 @@ img {
 .content img, main img {
   max-width: 800px;
   width: 100%;
+}
+
+//mobile-responsive site
+@media (max-width: 600px) {
+  body {
+    padding: 0 10px;
+  }
+
+  header, footer {
+    padding: 10px 0;
+  }
+
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav li {
+    margin: 5px 0;
+  }
 }
 
 
