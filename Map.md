@@ -1,3 +1,9 @@
+---
+layout: default
+title: Interactive Map
+permalink: /Map/
+---
+
 # Interactive Map
 I remain intrigued by the idea of horror tourism, and would be delighted to return to this project to add more locations and, potentially, interview data with people involved in the community. This is not my main focus right now, however, so I am preserving this here as a proof-of-concept for a future return in my research.
 
