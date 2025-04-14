@@ -1,10 +1,34 @@
 @import "jekyll-theme-hacker";
 
+body {
+  margin: 0;
+  padding: 0;
+  background: #fccdbd;
+  color: #232324;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
 
-  background: #fccdbd; //lgith crema orangr
-  #822e12 //rusty deeper orange
-  color: #232324; //dark blue/grey
-  color: #495e48; // dark sage green
+h1 {
+  color: #822e12;
+  font-size: 50px;
+}
+
+h2, h3, h4, h5, h6 {
+  color: #495e48;
+}
+
+header {
+  background: #822e12;
+  width: 100%;
+  border-bottom: 1px dashed #495e48;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
+}
+
+
+//  #fccdbd light cream orange // #822e12 rusty deeper orange // #232324 dark blue/grey // #495e48 dark sage green
 
 
 
