@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Selfie/Self Portrait
+title: Self Portrait
+permalink: /Selfie/
 ---
 # Selfie/Self Portrait
 This was a great place to start the journey in the Critical Making course - rooted in materiality. 
