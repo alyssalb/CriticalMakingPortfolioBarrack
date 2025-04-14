@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tracery Grammer
+permalink: /Grammar/
+---
 # Grammar - Procedural Tracery-based Project
 This is my absolute favorite project I made in this course. I find such joy in the chance to think about my brilliant friend, who I made this procedural project for. It has inspired me throughout this semester to find spaces where I can center care in my work, whether that is in my research, in my professional life, or even the domestic labor that my home-unit undergoes on the daily. It felt so good to use a labor space in pursuit of sharing care and love and joy with another person, especially someone I hold so close. I am still developing this through practice, but I am interested in adding an element of care into my research - I think this aligns so well conceptually with socially-conscious work like Costanza-Chock’s Design Justice and Your Computer is Not on Fire - to think about the effects and consequences of the things we make is to care for the wellbeing of other humans, both individually and broadly construed. 
 
